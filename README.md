@@ -167,3 +167,70 @@ Limitações que tive com o lovable:
 por falta de creditos gratuitos, nao consegui terminar da maneira que deveria, pois os creditos diarios sao muito poucos.
 
 link: (https://lovable.dev/projects/287ae3c4-454e-4f4e-aa24-952dd165f02c)
+
+resumo com base na imagem anexa e no PRD:
+# 💬 Finanças por Conversa — Visão Geral do Produto
+
+Um app de **organização financeira pessoal via chat**, feito para quem quer controlar o dinheiro sem complicação. A proposta é substituir planilhas e interfaces tradicionais por uma conversa simples e inteligente com um assistente financeiro.
+
+---
+
+## ❓ Problema a Resolver
+
+A maioria dos apps de finanças são complexos, impessoais e exigem esforço para manter atualizados. Isso desanima quem está começando.  
+A solução é uma experiência mais humana e acessível, com registro de gastos por linguagem natural e dicas automáticas de economia.
+
+---
+
+## 👥 Público-Alvo
+
+Pessoas que querem começar a organizar suas finanças de forma simples, sem precisar entender de planilhas ou termos técnicos.
+
+---
+
+## 🧠 Funcionalidades-Chave
+
+- Registrar gastos via chat, usando linguagem natural (ex: “gastei 18 no pão”).
+- Organização automática dos gastos por categoria.
+- Criação e acompanhamento de metas financeiras.
+- Assistente financeiro com dicas personalizadas.
+- Relatórios simples e visuais: saldo, renda, gastos e progresso mensal.
+
+---
+
+## 🚀 MVP — Primeira Versão do Produto
+
+### 🖥️ Telas Principais
+
+- Tela de chat com o assistente.
+- Tela de resumo financeiro (saldo, renda, gastos, progresso).
+- Tela de metas e objetivos.
+- Tela de relatórios por categoria.
+
+### ⚙️ Recursos Essenciais
+
+- Processamento de linguagem natural para entender frases comuns.
+- Classificação automática de gastos.
+- Geração de relatórios visuais.
+- Sistema de metas e alertas personalizados.
+
+### ✅ Validação da Ideia
+
+- Testes com usuários reais que nunca usaram apps de finanças.
+- Medir engajamento com o chat e frequência de registro de gastos.
+- Verificar se os relatórios são compreendidos sem ajuda externa.
+
+---
+
+## 📱 Inspiração Visual
+
+A interface do protótipo “Finanças Manager” mostra:
+
+- Saldo disponível, renda e gastos mensais.
+- Progresso do mês em porcentagem.
+- Gastos por categoria (alimentação, moradia, transporte).
+- Campo de entrada por linguagem natural.
+- Assistente pronto para ajudar.
+
+---
+
