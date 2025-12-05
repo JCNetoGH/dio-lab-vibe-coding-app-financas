@@ -1,3 +1,6 @@
+Desenvolvimento de projeto da DIO.
+
+
 # Contexto
 Quero criar um app de Organização de Finanças Pessoais que funcione através de conversa.  
 Quero deixar tudo mais simples, sem planilhas ou formulários chatos.
