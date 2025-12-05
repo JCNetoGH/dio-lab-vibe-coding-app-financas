@@ -234,3 +234,6 @@ A interface do protótipo “Finanças Manager” mostra:
 
 ---
 
+## Reflexão
+O uqe funcionou bem?
+Na verdade nao sei, pois os creditos gratuitos acabaram muito rapido e nao pude na verdade ver como realmente ele poderia funcionar.
