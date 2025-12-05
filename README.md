@@ -165,3 +165,5 @@ O app deve agir como um conselheiro firme, direto e amigável:
 
 Limitações que tive com o lovable:
 por falta de creditos gratuitos, nao consegui terminar da maneira que deveria, pois os creditos diarios sao muito poucos.
+
+link: (https://lovable.dev/projects/287ae3c4-454e-4f4e-aa24-952dd165f02c)
